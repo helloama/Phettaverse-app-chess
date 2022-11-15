@@ -1,6 +1,6 @@
 {
-  "id": "chess",
-  "name": "Chess",
-  "description": null,
-  "image": null
+  "id": "phetta-chess",
+  "name": "Phettaverse Chess",
+  "description": "A chess set using well known Phettaverse Characters.",
+  "image": "phettachess.png"
 }

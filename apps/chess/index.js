@@ -127,20 +127,20 @@ export function getStore(state = initialState) {
 
 const models = {
   w: {
-    r: 'w-rook-opt.glb',
-    n: 'w-knight-opt.glb',
-    b: 'w-bishop-opt.glb',
-    q: 'w-queen-opt.glb',
-    k: 'w-king-opt.glb',
-    p: 'w-pawn-opt.glb',
+    r: 'w-rook.glb',
+    n: 'w-knight.glb',
+    b: 'w-bishop.glb',
+    q: 'w-queen.glb',
+    k: 'w-king.glb',
+    p: 'w-pawn.glb',
   },
   b: {
-    r: 'b-rook-opt.glb',
-    n: 'b-knight-opt.glb',
-    b: 'b-bishop-opt.glb',
-    q: 'b-queen-opt.glb',
-    k: 'b-king-opt.glb',
-    p: 'b-pawn-opt.glb',
+    r: 'b-rook.glb',
+    n: 'b-knight.glb',
+    b: 'b-bishop.glb',
+    q: 'b-queen.glb',
+    k: 'b-king.glb',
+    p: 'b-pawn.glb',
   },
 }
 
